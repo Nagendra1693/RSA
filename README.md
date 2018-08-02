@@ -15,8 +15,8 @@ RSA in implemented in this application.
 </ul>
 <br>
 Steps :
-1. Run the KeysGenerator.java 
-2. Required values will be generated
-3. Copy the values into Application.java and DecryptionApplication.java files
-4. Enter your Gmail username and pasword into Application.java file
-5. Save and run Application.java
+<br>1. Run the KeysGenerator.java 
+<br>2. Required values will be generated
+<br>3. Copy the values into Application.java and DecryptionApplication.java files
+<br>4. Enter your Gmail username and pasword into Application.java file
+<br>5. Save and run Application.java
