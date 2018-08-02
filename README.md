@@ -3,13 +3,15 @@ RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and
 
 RSA in implemented in this application.
 
-Prerequisites : 
-  JAVA SDK
-  <ul>Google account with access less secure apps
-    <li>Create a google account</li>
-    <li>Open url https://myaccount.google.com/security?pli=1#connectedapps</li>
-    <li>Turn on the "Allow less secure apps" present in the bottom of the page</li>
-  </ul>
+<ul>Prerequisites : 
+  <li>JAVA SDK</li>
+  <li>
+    <ul>Google account with access less secure apps
+      <li>Create a google account</li>
+      <li>Open url https://myaccount.google.com/security?pli=1#connectedapps</li>
+      <li>Turn on the "Allow less secure apps" present in the bottom of the page</li>
+    </ul>
+  </li>
 
 Steps :
 1. Run the KeysGenerator.java 
