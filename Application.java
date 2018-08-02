@@ -12,6 +12,9 @@ import javax.activation.*;
 
 public class Application implements DataSource{
 
+    static String USERNAME = /*Enter your gmail username*/;
+    static String PASSWORD = /*Enter the gmail password*/;
+
     // Methods needed for saving bytes to file 
     private byte[] _data; 
     private java.lang.String _name; 
@@ -88,8 +91,8 @@ public class Application implements DataSource{
 
     public static boolean sendMail(String toAddr,String plainMessage){
 
-        String from = YOUR GMAIL ID;
-        String pass = YOUR PASSWORD;
+        String from = USERNAME;
+        String pass = PASSWORD;
         String[] to = { toAddr };
 
         String subject = "Encrypted mail";
