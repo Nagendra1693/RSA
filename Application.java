@@ -31,7 +31,7 @@ public class Application implements DataSource{
     // Ends here
 
     public static void main(String[] args) {  
-        JFrame f= new JFrame();
+        JFrame f= new JFrame("Encryption");
 
         JLabel l1 = new JLabel();  
         l1.setBounds(50, 50, 80, 30);

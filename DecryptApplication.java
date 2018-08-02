@@ -19,7 +19,7 @@ public class DecryptApplication{
     public static void main(String[] args) {
         
 
-        JFrame f= new JFrame();
+        JFrame f= new JFrame("Decryption");
 
         JButton fBtn = new JButton("Select file");
         fBtn.setBounds(50, 50, 100, 30);
