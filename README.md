@@ -5,10 +5,11 @@ RSA in implemented in this application.
 
 Prerequisites : 
   JAVA SDK
-  Google account with access less secure apps
-    Create a google account
-    Open url https://myaccount.google.com/security?pli=1#connectedapps
-    Turn on the "Allow less secure apps" present in the bottom of the page
+  <ul>Google account with access less secure apps
+    <li>Create a google account</li>
+    <li>Open url https://myaccount.google.com/security?pli=1#connectedapps</li>
+    <li>Turn on the "Allow less secure apps" present in the bottom of the page</li>
+  </ul>
 
 Steps :
 1. Run the KeysGenerator.java 
