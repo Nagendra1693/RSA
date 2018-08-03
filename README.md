@@ -3,7 +3,7 @@ RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and
 
 RSA in implemented in this application.
 <br>Prerequisites : 
-<ul>
+Prerequisites :<ul>
   <li>JAVA SDK</li>
   <li>Google account with access to less secure apps
     <ul>
