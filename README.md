@@ -2,7 +2,7 @@
 RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and is widely used for secure data transmission. In such a cryptosystem, the encryption key is public and it is different from the decryption key which is kept secret (private). In RSA, this asymmetry is based on the practical difficulty of the factorization of the product of two large prime numbers, the "factoring problem".
 
 RSA in implemented in this application.
-<br>Prerequisites : 
+<br>
 Prerequisites :<ul>
   <li>JAVA SDK</li>
   <li>Google account with access to less secure apps
